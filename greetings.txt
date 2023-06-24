@@ -4,3 +4,11 @@
 -Hej
 -Hallo
 -Bonjour
+
+
+
+
+-Assian languages:
+Filipino: Kamusta
+Irish: Dia dhuit
+Vietnamese: Xin chao
