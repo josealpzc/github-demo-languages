@@ -12,3 +12,6 @@
 Filipino: Kamusta
 Irish: Dia dhuit
 Vietnamese: Xin chao
+
+-African languages:
+Arabic:mrhban
